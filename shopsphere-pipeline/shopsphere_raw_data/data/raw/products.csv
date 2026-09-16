@@ -1,0 +1,507 @@
+product_id,product_name,category,subcategory,supplier,cost_price,selling_price
+P0001,Product 1,Books,Fiction,Nova Traders,2271.05,3665.28
+P0002,Product 2,Home & Kitchen,Furniture,Alpha Supply,14742.6,23104.95
+P0003,Product 3,Sports,Fitness,Nova Traders,8467.34,9326.39
+P0004,Product 4,Sports,Team Sports,Global Goods,12060.27,17898.6
+P0005,Product 5,Beauty,Skincare,Nova Traders,4447.79,6690.68
+P0006,Product 6,Books,Fiction,Prime Wholesale,8481.16,10856.46
+P0007,Product 7,Electronics,Laptops,Global Goods,1900.28,2184.63
+P0008,Product 8,Fashion,Accessories,Alpha Supply,16152.21,25930.87
+P0009,Product 9,Beauty,Haircare,Global Goods,1622.06,2094.22
+P0010,Product 10,Fashion,Men,Nova Traders,11568.18,18362.08
+P0011,Product 11,Fashion,Men,Urban Source,19705.17,33416.59
+P0012,Product 12,Fashion,Men,Prime Wholesale,9095.54,15285.6
+P0013,Product 13,Fashion,Accessories,Alpha Supply,4229.67,5381.09
+P0014,Product 14,Sports,Fitness,Nova Traders,12717.82,18626.27
+P0015,Product 15,Beauty,Haircare,Global Goods,7620.14,13658.77
+P0016,Product 16,Home & Kitchen,Appliances,Nova Traders,13708.05,23123.47
+P0017,Product 17,Electronics,Phones,Nova Traders,16110.66,22052.89
+P0018,Product 18,Sports,Team Sports,Urban Source,17533.53,22908.75
+P0019,Product 19,Beauty,Skincare,Prime Wholesale,17699.43,27307.62
+P0020,Product 20,Home & Kitchen,Cookware,Global Goods,4970.22,7376.73
+P0021,Product 21,Beauty,Skincare,Nova Traders,17961.57,24563.67
+P0022,Product 22,Sports,Fitness,Nova Traders,9895.64,16072.13
+P0023,Product 23,Books,Technology,Alpha Supply,3241.64,5089.2
+P0024,Product 24,Beauty,Haircare,Prime Wholesale,7663.3,13772.54
+P0025,Product 25,Sports,Team Sports,Alpha Supply,17222.56,18742.73
+P0026,Product 26,Books,Technology,Prime Wholesale,17701.53,28687.67
+P0027,Product 27,Electronics,Phones,Prime Wholesale,5905.33,7050.22
+P0028,Product 28,Sports,Fitness,Prime Wholesale,-100.0,22046.01
+P0029,Product 29,Books,Business,Nova Traders,10177.87,12449.73
+P0030,Product 30,Sports,Fitness,Global Goods,19072.32,33265.04
+P0031,Product 31,Fashion,Women,Prime Wholesale,9797.68,11370.65
+P0032,Product 32,Home & Kitchen,Appliances,Alpha Supply,1205.61,2064.21
+P0033,Product 33,Books,Technology,Nova Traders,9745.51,11010.8
+P0034,Product 34,Home & Kitchen,Appliances,Prime Wholesale,13212.03,23276.04
+P0035,Product 35,Sports,Fitness,Global Goods,17455.04,24169.28
+P0036,Product 36,Books,Business,Prime Wholesale,13812.86,22008.35
+P0037,Product 37,Beauty,Skincare,Nova Traders,17997.3,25287.47
+P0038,Product 38,Electronics,Phones,Global Goods,6794.81,10216.56
+P0039,Product 39,Home & Kitchen,Appliances,Nova Traders,193.46,307.53
+P0040,Product 40,Electronics,Phones,Global Goods,18113.13,30773.08
+P0041,Product 41,Home & Kitchen,Furniture,Nova Traders,5605.62,8013.23
+P0042,Product 42,Books,Business,Nova Traders,18713.51,27904.67
+P0043,Product 43,Beauty,Skincare,,16159.57,19667.73
+P0044,Product 44,Fashion,Accessories,Alpha Supply,8500.39,12038.74
+P0045,Product 45,Books,Fiction,Urban Source,13086.44,20221.81
+P0046,Product 46,Books,Fiction,Nova Traders,6819.09,11595.21
+P0047,Product 47,Home & Kitchen,Appliances,Prime Wholesale,10748.9,12693.71
+P0048,Product 48,Beauty,Makeup,Global Goods,5033.64,8782.45
+P0049,Product 49,Electronics,Phones,Alpha Supply,1059.24,1906.08
+P0050,Product 50,Home & Kitchen,Appliances,Urban Source,3367.91,4814.97
+P0051,Product 51,Electronics,Laptops,Prime Wholesale,3334.51,3606.45
+P0052,Product 52,Beauty,Haircare,Global Goods,5740.72,9079.21
+P0053,Product 53,Books,Business,Nova Traders,14382.25,17135.79
+P0054,Product 54,Electronics,Audio,Prime Wholesale,11604.65,17063.25
+P0055,Product 55,Electronics,Audio,Nova Traders,1050.34,1494.94
+P0056,Product 56,Electronics,Phones,Alpha Supply,19217.54,21863.42
+P0057,Product 57,Sports,Outdoor,Alpha Supply,1405.82,2390.61
+P0058,Product 58,Sports,Team Sports,Alpha Supply,4962.0,7482.96
+P0059,Product 59,Beauty,Makeup,Prime Wholesale,13164.59,19575.26
+P0060,Product 60,Home & Kitchen,Cookware,Urban Source,13411.03,17517.65
+P0061,Product 61,Home & Kitchen,Cookware,Alpha Supply,13450.22,17431.46
+P0062,Product 62,Electronics,Phones,Alpha Supply,9192.8,16536.81
+P0063,Product 63,Sports,Outdoor,Alpha Supply,4302.43,5468.15
+P0064,Product 64,Home & Kitchen,Furniture,Prime Wholesale,7422.07,8858.82
+P0065,Product 65,Sports,Team Sports,Alpha Supply,19677.87,32687.15
+P0066,Product 66,Books,Technology,Alpha Supply,16351.23,21183.88
+P0067,Product 67,Home & Kitchen,Furniture,Global Goods,5326.1,0.0
+P0068,Product 68,Home & Kitchen,Furniture,Prime Wholesale,5483.35,8309.89
+P0069,Product 69,Home & Kitchen,Furniture,Urban Source,13765.57,23320.21
+P0070,Product 70,Fashion,Men,Urban Source,18111.46,30593.78
+P0071,Product 71,Fashion,Men,Prime Wholesale,929.53,1227.13
+P0072,Product 72,Home & Kitchen,Cookware,Global Goods,14837.56,21918.19
+P0073,Product 73,Electronics,Audio,Nova Traders,2281.88,4017.11
+P0074,Product 74,electronic,Team Sports,Nova Traders,768.76,1034.62
+P0075,Product 75,Beauty,Skincare,Prime Wholesale,2592.54,3375.35
+P0076,Product 76,Home & Kitchen,Cookware,Global Goods,13657.23,21307.9
+P0077,Product 77,Beauty,Skincare,Nova Traders,19478.05,31547.11
+P0078,Product 78,Home & Kitchen,Furniture,Prime Wholesale,17634.25,19359.69
+P0079,Product 79,Beauty,Skincare,Prime Wholesale,16054.59,27326.94
+P0080,Product 80,Home & Kitchen,Appliances,Urban Source,15758.12,18245.21
+P0081,Product 81,Home & Kitchen,Cookware,Prime Wholesale,4031.48,7019.96
+P0082,Product 82,Home & Kitchen,Cookware,Prime Wholesale,4497.32,6994.34
+P0083,Product 83,Fashion,Women,,17293.84,30716.63
+P0084,Product 84,Books,Technology,Prime Wholesale,10212.64,16026.22
+P0085,Product 85,Electronics,Phones,Global Goods,2351.07,4181.82
+P0086,Product 86,Fashion,Women,Prime Wholesale,813.23,1227.6
+P0087,Product 87,Beauty,Makeup,Global Goods,12143.87,17587.05
+P0088,Product 88,Home & Kitchen,Appliances,Global Goods,5131.71,8161.09
+P0089,Product 89,Sports,Team Sports,Nova Traders,13752.8,24163.52
+P0090,Product 90,Fashion,Women,Global Goods,8654.38,15259.31
+P0091,Product 91,Fashion,Women,Global Goods,13284.58,15539.37
+P0092,Product 92,Fashion,Accessories,Prime Wholesale,13354.51,17559.2
+P0093,Product 93,Sports,Outdoor,Nova Traders,2589.39,3580.4
+P0094,Product 94,Sports,Fitness,Prime Wholesale,11403.65,15650.07
+P0095,Product 95,Fashion,Accessories,Prime Wholesale,4243.14,6983.13
+P0096,Product 96,Beauty,Haircare,Urban Source,8863.63,13884.45
+P0097,Product 97,Books,Technology,Global Goods,3435.34,3919.9
+P0098,Product 98,Fashion,Men,Prime Wholesale,1913.07,3377.41
+P0099,Product 99,Home & Kitchen,Appliances,Nova Traders,16140.93,19144.67
+P0100,Product 100,Beauty,Makeup,Urban Source,12244.92,19999.78
+P0101,Product 101,Books,Business,Urban Source,11534.63,18423.22
+P0102,Product 102,Beauty,Skincare,Alpha Supply,4917.49,7633.72
+P0103,Product 103,Beauty,Haircare,Global Goods,4415.88,7325.76
+P0104,Product 104,Beauty,Skincare,Urban Source,1051.86,1324.74
+P0105,Product 105,electronics,Furniture,Global Goods,16038.26,25030.21
+P0106,Product 106,Fashion,Accessories,Global Goods,19003.29,32720.37
+P0107,Product 107,Beauty,Skincare,Urban Source,16619.85,24505.43
+P0108,Product 108,Beauty,Haircare,Prime Wholesale,5220.87,6567.92
+P0109,Product 109,Sports,Outdoor,Alpha Supply,9717.71,12169.07
+P0110,Product 110,Books,Business,Global Goods,5750.28,7335.26
+P0111,Product 111,Electronics,Audio,Nova Traders,2810.56,3503.39
+P0112,Product 112,Books,Business,Global Goods,4318.36,5953.74
+P0113,Product 113,Beauty,Makeup,Urban Source,8344.7,10254.98
+P0114,Product 114,Sports,Team Sports,Urban Source,18923.94,20703.98
+P0115,Product 115,Beauty,Makeup,Urban Source,167.63,223.5
+P0116,Product 116,Sports,Team Sports,Nova Traders,-100.0,22043.63
+P0117,Product 117,Beauty,Skincare,Urban Source,4427.46,6171.0
+P0118,Product 118,Fashion,Accessories,Nova Traders,13394.03,22162.6
+P0119,Product 119,Beauty,Haircare,Alpha Supply,18394.86,32855.42
+P0120,Product 120,Beauty,Skincare,Urban Source,11858.26,18467.58
+P0121,Product 121,Home & Kitchen,Cookware,Urban Source,17343.68,21000.51
+P0122,Product 122,Fashion,Women,Prime Wholesale,4272.62,5619.9
+P0123,Product 123,Beauty,Skincare,Global Goods,5082.82,5789.19
+P0124,Product 124,Electronics,Audio,Alpha Supply,19998.16,0.0
+P0125,Product 125,ELECTRONICS,Fiction,Nova Traders,853.15,940.46
+P0126,Product 126,Electronics,Laptops,Alpha Supply,12445.65,15578.87
+P0127,Product 127,Sports,Outdoor,Prime Wholesale,18957.75,26821.89
+P0128,Product 128,Home & Kitchen,Furniture,Alpha Supply,12137.56,21530.68
+P0129,Product 129,Home & Kitchen,Appliances,Prime Wholesale,19296.18,22341.72
+P0130,Product 130,Sports,Outdoor,Nova Traders,13563.08,24005.08
+P0131,Product 131,Electronics,Phones,Alpha Supply,11862.35,19905.16
+P0132,Product 132,Books,Technology,Alpha Supply,15460.99,26163.26
+P0133,Product 133,Sports,Outdoor,Prime Wholesale,15663.58,20832.35
+P0134,Product 134,Electronics,Laptops,Urban Source,10143.92,13447.66
+P0135,Product 135,Electronics,Laptops,Nova Traders,8698.79,11663.12
+P0136,Product 136,Beauty,Haircare,Prime Wholesale,3563.93,5187.86
+P0137,Product 137,Sports,Outdoor,Urban Source,16173.57,23734.46
+P0138,Product 138,Beauty,Makeup,Nova Traders,16523.41,24893.87
+P0139,Product 139,Electronics,Laptops,Global Goods,5614.62,7886.17
+P0140,Product 140,Sports,Outdoor,Prime Wholesale,13380.36,17691.59
+P0141,Product 141,Home & Kitchen,Cookware,Prime Wholesale,9776.62,13056.42
+P0142,Product 142,Fashion,Women,Global Goods,17612.38,27913.02
+P0143,Product 143,Electronics,Phones,Urban Source,10356.71,12609.92
+P0144,Product 144,Beauty,Makeup,Urban Source,11125.77,13940.96
+P0145,Product 145,Beauty,Skincare,Urban Source,15869.01,18201.73
+P0146,Product 146,Books,Business,Urban Source,4903.94,7640.59
+P0147,Product 147,Sports,Team Sports,Global Goods,10641.89,14753.52
+P0148,Product 148,Fashion,Women,Prime Wholesale,7068.62,9943.4
+P0149,Product 149,Home & Kitchen,Appliances,Global Goods,2457.08,2994.35
+P0150,Product 150,Books,Business,Prime Wholesale,3743.74,4626.5
+P0151,Product 151,Books,Technology,Prime Wholesale,11812.26,19222.68
+P0152,Product 152,Electronics,Laptops,Nova Traders,16660.94,21547.55
+P0153,Product 153,Fashion,Women,Alpha Supply,332.26,486.62
+P0154,Product 154,Electronics,Phones,Urban Source,11089.51,17545.16
+P0155,Product 155,Electronics,Laptops,Urban Source,17460.76,26074.61
+P0156,Product 156,ELECTRONICS,Makeup,Urban Source,6847.08,12154.65
+P0157,Product 157,Electronics,Phones,Global Goods,16451.21,22513.63
+P0158,Product 158,Books,Technology,Prime Wholesale,13744.7,16345.79
+P0159,Product 159,Electronics,Laptops,Global Goods,19878.67,23164.32
+P0160,Product 160,Sports,Team Sports,Urban Source,15825.28,19662.83
+P0161,Product 161,Beauty,Haircare,Urban Source,18174.66,23519.72
+P0162,Product 162,Fashion,Accessories,Alpha Supply,11394.16,12799.81
+P0163,Product 163,Home & Kitchen,Appliances,Nova Traders,12529.02,15918.69
+P0164,Product 164,Home & Kitchen,Appliances,Urban Source,3517.58,3989.1
+P0165,Product 165,Beauty,Skincare,Nova Traders,13802.95,19577.23
+P0166,Product 166,Fashion,Women,Alpha Supply,14153.77,22450.02
+P0167,Product 167,Books,Technology,Global Goods,4706.8,5979.89
+P0168,Product 168,Books,Fiction,Global Goods,16087.92,19666.35
+P0169,Product 169,Home & Kitchen,Appliances,Alpha Supply,12970.31,22491.25
+P0170,Product 170,Electronics,Audio,Global Goods,3360.16,4373.18
+P0171,Product 171,Fashion,Women,Urban Source,8811.11,12489.42
+P0172,Product 172,Fashion,Men,Global Goods,10034.42,14404.74
+P0173,Product 173,Electronics,Audio,Prime Wholesale,17793.99,28628.12
+P0174,Product 174,Electronics,Audio,Global Goods,1871.97,3318.21
+P0175,Product 175,Electronics,Laptops,Global Goods,19991.47,31267.51
+P0176,Product 176,Electronics,Audio,Urban Source,15274.02,18422.57
+P0177,Product 177,Fashion,Accessories,Urban Source,3670.71,5511.34
+P0178,Product 178,Electronics,Laptops,Alpha Supply,9426.71,12952.4
+P0179,Product 179,Home & Kitchen,Cookware,Urban Source,6629.58,10471.06
+P0180,Product 180,Sports,Outdoor,Prime Wholesale,782.11,894.27
+P0181,Product 181,Electronics,Audio,Alpha Supply,19405.19,26604.63
+P0182,Product 182,Books,Fiction,,17393.88,24570.99
+P0183,Product 183,Sports,Team Sports,Urban Source,7267.5,11807.06
+P0184,Product 184,Electronics,Laptops,Urban Source,4110.99,6065.51
+P0185,Product 185,Books,Technology,Global Goods,9720.0,10699.64
+P0186,Product 186,Home & Kitchen,Appliances,Global Goods,14210.17,18526.37
+P0187,Product 187,Beauty,Skincare,Urban Source,1909.52,3426.49
+P0188,Product 188,Electronics,Audio,Prime Wholesale,12971.81,15447.6
+P0189,Product 189,Sports,Outdoor,Urban Source,14122.96,19477.72
+P0190,Product 190,Home & Kitchen,Appliances,Global Goods,9162.89,10850.16
+P0191,Product 191,Sports,Fitness,Prime Wholesale,14938.54,17601.87
+P0192,Product 192,Beauty,Makeup,Alpha Supply,6830.51,11250.92
+P0193,Product 193,Fashion,Accessories,Urban Source,14534.72,24461.68
+P0194,Product 194,Home & Kitchen,Cookware,Global Goods,8958.62,12799.41
+P0195,Product 195,Sports,Fitness,Nova Traders,7575.34,0.0
+P0196,Product 196,Sports,Outdoor,Alpha Supply,7690.27,13045.23
+P0197,Product 197,Fashion,Women,Urban Source,14906.87,23668.59
+P0198,Product 198,Books,Fiction,Urban Source,15858.25,24571.62
+P0199,Product 199,Electronics,Laptops,Alpha Supply,2568.61,4559.42
+P0200,Product 200,Beauty,Skincare,Nova Traders,2039.25,3539.16
+P0201,Product 201,Beauty,Skincare,Urban Source,17425.11,30988.27
+P0202,Product 202,Fashion,Accessories,Alpha Supply,6804.3,10742.27
+P0203,Product 203,Fashion,Women,Prime Wholesale,17054.21,28970.44
+P0204,Product 204,Books,Technology,Alpha Supply,14388.41,23406.62
+P0205,Product 205,Sports,Outdoor,Nova Traders,1414.99,2171.21
+P0206,Product 206,Books,Technology,Alpha Supply,1853.07,3306.62
+P0207,Product 207,Beauty,Skincare,Alpha Supply,3368.98,4364.9
+P0208,Product 208,Fashion,Women,Urban Source,15933.06,20573.16
+P0209,Product 209,Home & Kitchen,Furniture,Nova Traders,4921.74,6775.65
+P0210,Product 210,Home & Kitchen,Cookware,Global Goods,3542.63,5380.67
+P0211,Product 211,Books,Fiction,Nova Traders,4854.55,8433.5
+P0212,Product 212,Beauty,Haircare,Alpha Supply,12776.2,18025.82
+P0213,Product 213,Beauty,Skincare,,18029.13,28267.51
+P0214,Product 214,Beauty,Makeup,Urban Source,18907.45,33865.31
+P0215,Product 215,Books,Fiction,Urban Source,5039.46,8509.73
+P0216,Product 216,Beauty,Makeup,Global Goods,2177.73,2949.91
+P0217,Product 217,Fashion,Accessories,Urban Source,19854.21,25662.88
+P0218,Product 218,Fashion,Accessories,Alpha Supply,211.55,360.24
+P0219,Product 219,Sports,Outdoor,Nova Traders,14916.18,25053.87
+P0220,Product 220,Sports,Fitness,Global Goods,16048.54,19863.01
+P0221,Product 221,Fashion,Accessories,Nova Traders,13571.4,21701.6
+P0222,Product 222,Books,Fiction,Prime Wholesale,1988.42,3045.8
+P0223,Product 223,Beauty,Skincare,Alpha Supply,715.62,960.86
+P0224,Product 224,Fashion,Men,Nova Traders,6568.05,9058.41
+P0225,Product 225,Sports,Team Sports,Prime Wholesale,17535.39,23557.35
+P0226,Product 226,Home & Kitchen,Cookware,Prime Wholesale,5176.55,8664.39
+P0227,Product 227,Books,Business,Alpha Supply,17414.42,28891.35
+P0228,Product 228,Home & Kitchen,Furniture,Urban Source,15095.32,18755.07
+P0229,Product 229,Sports,Fitness,Prime Wholesale,7347.21,12117.69
+P0230,Product 230,Sports,Team Sports,Prime Wholesale,2515.6,3384.44
+P0231,Product 231,Sports,Outdoor,Alpha Supply,7651.46,11781.38
+P0232,Product 232,Books,Technology,Prime Wholesale,4714.75,5176.88
+P0233,Product 233,Sports,Outdoor,Prime Wholesale,4466.28,5026.87
+P0234,Product 234,Books,Fiction,Prime Wholesale,8195.5,9675.93
+P0235,Product 235,Beauty,Haircare,Nova Traders,2366.6,2956.02
+P0236,Product 236,Beauty,Haircare,Global Goods,9100.19,14221.32
+P0237,Product 237,Beauty,Makeup,Alpha Supply,11767.44,18864.99
+P0238,Product 238,Beauty,Makeup,Alpha Supply,12332.26,21656.91
+P0239,Product 239,Books,Fiction,Prime Wholesale,7442.07,10413.21
+P0240,Product 240,Electronics,Audio,Prime Wholesale,19619.51,26378.06
+P0241,Product 241,Electronics,Phones,Urban Source,7992.89,9724.65
+P0242,Product 242,Electronics,Audio,Alpha Supply,13272.24,20466.16
+P0243,Product 243,Electronics,Phones,Global Goods,15746.55,19767.74
+P0244,Product 244,Home & Kitchen,Appliances,Global Goods,1418.77,2313.89
+P0245,Product 245,Home & Kitchen,Appliances,Global Goods,16270.41,20301.55
+P0246,Product 246,Electronics,Phones,Global Goods,5581.63,9982.75
+P0247,Product 247,Fashion,Men,Nova Traders,15980.35,18523.57
+P0248,Product 248,Electronics,Audio,Prime Wholesale,7196.93,11858.17
+P0249,Product 249,Electronics,Audio,Urban Source,3526.21,3941.34
+P0250,Product 250,Sports,Outdoor,Prime Wholesale,2317.3,2608.73
+P0251,Product 251,Sports,Fitness,Global Goods,11893.64,16715.84
+P0252,Product 252,Electronics,Audio,Global Goods,14558.5,25248.82
+P0253,Product 253,Fashion,Men,Urban Source,9187.95,16300.33
+P0254,Product 254,Beauty,Haircare,Urban Source,8554.16,9903.43
+P0255,Product 255,Electronics,Phones,Alpha Supply,17990.37,23601.94
+P0256,Product 256,Home & Kitchen,Furniture,Prime Wholesale,5536.57,8503.15
+P0257,Product 257,Beauty,Makeup,Global Goods,19892.82,29083.32
+P0258,Product 258,Sports,Fitness,Global Goods,8632.48,14252.48
+P0259,Product 259,Books,Fiction,Urban Source,17316.57,24063.98
+P0260,Product 260,Fashion,Accessories,Alpha Supply,16557.01,22634.85
+P0261,Product 261,Fashion,Women,Nova Traders,8563.94,13350.13
+P0262,Product 262,Books,Fiction,Alpha Supply,18463.55,20833.09
+P0263,Product 263,Beauty,Skincare,Global Goods,1976.46,3185.92
+P0264,Product 264,Electronics,Laptops,Alpha Supply,11749.98,17440.99
+P0265,Product 265,Beauty,Makeup,Alpha Supply,7104.28,11075.89
+P0266,Product 266,Fashion,Accessories,Global Goods,12028.18,16035.79
+P0267,Product 267,Home & Kitchen,Appliances,Prime Wholesale,3136.87,4476.87
+P0268,Product 268,Sports,Team Sports,Nova Traders,-100.0,12027.21
+P0269,Product 269,Beauty,Haircare,Global Goods,16910.85,30129.61
+P0270,Product 270,Books,Technology,Prime Wholesale,12871.85,14144.91
+P0271,Product 271,Electronics,Laptops,Prime Wholesale,3649.3,5787.58
+P0272,Product 272,Fashion,Accessories,Urban Source,171.81,293.16
+P0273,Product 273,Electronics,Phones,Alpha Supply,2880.4,4423.96
+P0274,Product 274,Books,Business,Prime Wholesale,10633.13,14363.87
+P0275,Product 275,Home & Kitchen,Furniture,Global Goods,7432.56,11888.74
+P0276,Product 276,Electronics,Audio,Alpha Supply,17672.68,21066.14
+P0277,Product 277,Books,Business,Urban Source,1677.55,2346.96
+P0278,Product 278,Sports,Team Sports,Alpha Supply,8868.78,11322.6
+P0279,Product 279,Fashion,Accessories,Global Goods,8626.78,11076.25
+P0280,Product 280,Beauty,Skincare,Urban Source,10562.34,13752.82
+P0281,Product 281,Sports,Fitness,Nova Traders,1142.9,1402.55
+P0282,Product 282,Fashion,Women,Urban Source,5824.47,6793.6
+P0283,Product 283,Home & Kitchen,Appliances,Global Goods,2627.25,3844.87
+P0284,Product 284,Sports,Fitness,Urban Source,16675.42,27688.94
+P0285,Product 285,Books,Fiction,Prime Wholesale,893.93,977.51
+P0286,Product 286,Sports,Team Sports,Urban Source,8614.22,11811.68
+P0287,Product 287,Fashion,Women,Nova Traders,2347.71,2570.78
+P0288,Product 288,Sports,Outdoor,Alpha Supply,9228.93,14549.59
+P0289,Product 289,Beauty,Haircare,Urban Source,16897.46,21209.49
+P0290,Product 290,Sports,Team Sports,Prime Wholesale,1619.01,2763.29
+P0291,Product 291,Home & Kitchen,Furniture,Alpha Supply,6694.72,8040.73
+P0292,Product 292,Sports,Outdoor,Prime Wholesale,10223.54,17709.87
+P0293,Product 293,Books,Fiction,Nova Traders,19166.56,29606.95
+P0294,Product 294,Electronics,Audio,Nova Traders,2971.56,3631.35
+P0295,Product 295,Books,Technology,Urban Source,1553.3,2741.47
+P0296,Product 296,Beauty,Makeup,Global Goods,15101.19,24571.32
+P0297,Product 297,Books,Technology,Prime Wholesale,12724.2,19463.64
+P0298,Product 298,Home & Kitchen,Furniture,Prime Wholesale,8823.27,12508.07
+P0299,Product 299,Fashion,Men,,11848.82,15799.2
+P0300,Product 300,Beauty,Makeup,Alpha Supply,9065.68,10162.27
+P0301,Product 301,Books,Technology,Global Goods,17291.79,29323.61
+P0302,Product 302,Sports,Team Sports,Alpha Supply,7720.43,11563.95
+P0303,Product 303,Beauty,Skincare,Prime Wholesale,18185.55,27125.44
+P0304,Product 304,Sports,Fitness,Urban Source,9538.8,11338.01
+P0305,Product 305,Electronics,Audio,Alpha Supply,16228.79,27311.62
+P0306,Product 306,Sports,Team Sports,Urban Source,12940.24,14340.15
+P0307,Product 307,Beauty,Makeup,Prime Wholesale,10505.17,0.0
+P0308,Product 308,Fashion,Accessories,Global Goods,7778.96,12738.94
+P0309,Product 309,Electronics,Phones,Prime Wholesale,15795.08,24420.14
+P0310,Product 310,Electronics,Laptops,Global Goods,11181.37,15187.95
+P0311,Product 311,Home & Kitchen,Appliances,Prime Wholesale,6700.57,10047.99
+P0312,Product 312,Fashion,Women,Nova Traders,19355.55,30638.01
+P0313,Product 313,Sports,Team Sports,Urban Source,14191.24,16192.17
+P0314,Product 314,Books,Technology,Global Goods,15843.66,26387.51
+P0315,Product 315,Electronics,Laptops,,12938.2,17917.5
+P0316,Product 316,Fashion,Women,Urban Source,6211.88,10962.99
+P0317,Product 317,Home & Kitchen,Appliances,Prime Wholesale,4569.53,5387.69
+P0318,Product 318,Electronics,Audio,Global Goods,10178.41,14948.37
+P0319,Product 319,Electronics,Audio,Nova Traders,13255.49,22680.18
+P0320,Product 320,Sports,Team Sports,Global Goods,7565.56,9054.6
+P0321,Product 321,Home & Kitchen,Cookware,Nova Traders,14437.6,16046.79
+P0322,Product 322,Beauty,Makeup,Nova Traders,12231.38,19835.89
+P0323,Product 323,Sports,Outdoor,Nova Traders,4821.41,8559.11
+P0324,Product 324,Fashion,Women,Urban Source,13582.22,20247.04
+P0325,Product 325,Fashion,Women,,15573.57,22458.53
+P0326,Product 326,Home & Kitchen,Cookware,Alpha Supply,16035.12,18915.78
+P0327,Product 327,Books,Fiction,Global Goods,9637.78,12984.72
+P0328,Product 328,Electronics,Laptops,Urban Source,5737.01,9348.14
+P0329,Product 329,Sports,Fitness,Urban Source,2989.61,4170.45
+P0330,Product 330,Fashion,Women,Global Goods,18612.91,25662.1
+P0331,Product 331,Fashion,Women,Nova Traders,4753.77,8538.05
+P0332,Product 332,Electronics,Audio,Prime Wholesale,6407.76,7377.51
+P0333,Product 333,Home & Kitchen,Cookware,Nova Traders,2795.11,3596.06
+P0334,Product 334,Books,Fiction,Alpha Supply,9408.75,14330.0
+P0335,Product 335,Fashion,Accessories,Global Goods,4352.31,5169.04
+P0336,Product 336,Sports,Fitness,Prime Wholesale,8493.93,13920.23
+P0337,Product 337,Electronics,Audio,Urban Source,1002.6,1385.87
+P0338,Product 338,Electronics,Audio,Global Goods,2261.62,3916.46
+P0339,Product 339,Electronics,Audio,Nova Traders,12657.5,18910.74
+P0340,Product 340,Fashion,Men,Global Goods,8613.32,13115.18
+P0341,Product 341,Beauty,Haircare,Prime Wholesale,3786.91,5911.8
+P0342,Product 342,Electronics,Audio,Global Goods,19070.4,28066.65
+P0343,Product 343,Electronics,Audio,Urban Source,7839.55,11120.38
+P0344,Product 344,Fashion,Men,Prime Wholesale,5110.32,5578.91
+P0345,Product 345,Home & Kitchen,Furniture,Prime Wholesale,14672.17,22482.83
+P0346,Product 346,Home & Kitchen,Furniture,Nova Traders,934.5,1376.64
+P0347,Product 347,Books,Technology,Nova Traders,9319.23,14730.72
+P0348,Product 348,Home & Kitchen,Cookware,Alpha Supply,1308.86,2145.03
+P0349,Product 349,Fashion,Men,Prime Wholesale,4071.74,6716.74
+P0350,Product 350,Fashion,Accessories,Urban Source,10331.9,18516.5
+P0351,Product 351,Fashion,Women,Prime Wholesale,780.58,1206.6
+P0352,Product 352,Electronics,Phones,Prime Wholesale,17322.68,22848.37
+P0353,Product 353,Beauty,Makeup,Prime Wholesale,17795.26,28742.58
+P0354,Product 354,Home & Kitchen,Furniture,Prime Wholesale,9949.25,14309.18
+P0355,Product 355,Electronics,Audio,Nova Traders,14555.27,16546.83
+P0356,Product 356,Sports,Outdoor,Prime Wholesale,5910.64,6820.11
+P0357,Product 357,Fashion,Men,Urban Source,8946.02,14284.26
+P0358,Product 358,Fashion,Women,Global Goods,8970.24,14382.04
+P0359,Product 359,Beauty,Skincare,Alpha Supply,5527.38,9869.8
+P0360,Product 360,Books,Technology,Nova Traders,12768.38,17129.85
+P0361,Product 361,Electronics,Laptops,Alpha Supply,2898.45,4398.26
+P0362,Product 362,electronics,Cookware,Prime Wholesale,1391.31,2282.49
+P0363,Product 363,Beauty,Skincare,Urban Source,18991.87,20954.06
+P0364,Product 364,Fashion,Accessories,Nova Traders,7471.67,12174.49
+P0365,Product 365,Sports,Outdoor,Nova Traders,7370.65,9628.7
+P0366,Product 366,Electronics,Audio,Urban Source,566.97,688.28
+P0367,Product 367,Sports,Team Sports,Urban Source,2399.33,3930.04
+P0368,Product 368,Home & Kitchen,Cookware,Nova Traders,19927.48,25619.07
+P0369,Product 369,Electronics,Phones,Urban Source,2757.78,3125.44
+P0370,Product 370,Electronics,Laptops,Prime Wholesale,16219.74,28816.71
+P0371,Product 371,Books,Business,Nova Traders,1345.53,1978.42
+P0372,Product 372,Books,Fiction,Prime Wholesale,14205.8,22504.23
+P0373,Product 373,Sports,Fitness,Nova Traders,4523.62,8094.09
+P0374,Product 374,Beauty,Makeup,Urban Source,574.37,849.43
+P0375,Product 375,ELECTRONICS,Fitness,Prime Wholesale,2638.94,4530.16
+P0376,Product 376,Beauty,Haircare,Urban Source,19991.92,31938.81
+P0377,Product 377,Beauty,Makeup,Alpha Supply,16475.62,18668.53
+P0378,Product 378,ELECTRONICS,Skincare,Global Goods,9343.37,13571.24
+P0379,Product 379,Books,Fiction,Urban Source,11776.33,19228.42
+P0380,Product 380,Sports,Fitness,Global Goods,18218.71,20403.08
+P0381,Product 381,Home & Kitchen,Furniture,Nova Traders,6117.28,7320.04
+P0382,Product 382,Fashion,Women,Alpha Supply,18952.29,27549.17
+P0383,Product 383,Fashion,Women,Nova Traders,3966.22,7014.55
+P0384,Product 384,Books,Technology,Nova Traders,6091.35,8918.37
+P0385,Product 385,Sports,Team Sports,Global Goods,18835.06,22432.93
+P0386,Product 386,Books,Technology,Alpha Supply,18044.92,23874.98
+P0387,Product 387,Electronics,Audio,Prime Wholesale,1670.4,2944.84
+P0388,Product 388,Books,Technology,Alpha Supply,4255.63,6349.14
+P0389,Product 389,Beauty,Haircare,Prime Wholesale,17785.49,26194.75
+P0390,Product 390,Beauty,Makeup,Prime Wholesale,4935.31,8198.99
+P0391,Product 391,Beauty,Makeup,Urban Source,1505.81,1691.23
+P0392,Product 392,Beauty,Skincare,Prime Wholesale,9315.62,12342.62
+P0393,Product 393,Books,Business,Urban Source,6420.36,11501.28
+P0394,Product 394,Home & Kitchen,Appliances,Prime Wholesale,15225.27,22088.6
+P0395,Product 395,ELECTRONICS,Appliances,Nova Traders,9356.13,11906.42
+P0396,Product 396,Electronics,Audio,Urban Source,1059.58,1865.58
+P0397,Product 397,Home & Kitchen,Cookware,Global Goods,19255.58,33305.68
+P0398,Product 398,Books,Business,Global Goods,6288.66,10247.04
+P0399,Product 399,Beauty,Skincare,Alpha Supply,10000.26,13021.83
+P0400,Product 400,Beauty,Skincare,Global Goods,10133.62,17997.45
+P0401,Product 401,Fashion,Accessories,,1020.73,1309.16
+P0402,Product 402,Fashion,Women,Nova Traders,10756.98,18178.91
+P0403,Product 403,Fashion,Women,Alpha Supply,14563.79,23738.64
+P0404,Product 404,Beauty,Makeup,Global Goods,1070.6,1589.31
+P0405,Product 405,Fashion,Accessories,Prime Wholesale,1516.96,2189.07
+P0406,Product 406,Sports,Fitness,Urban Source,13623.95,15879.31
+P0407,Product 407,Fashion,Women,Nova Traders,15908.2,21064.71
+P0408,Product 408,Home & Kitchen,Appliances,Alpha Supply,12069.14,16522.64
+P0409,Product 409,Electronics,Laptops,Global Goods,2783.88,3674.14
+P0410,Product 410,Beauty,Skincare,Prime Wholesale,3021.37,5205.99
+P0411,Product 411,Sports,Team Sports,Prime Wholesale,6404.67,8729.1
+P0412,Product 412,Sports,Team Sports,Urban Source,6760.65,11333.34
+P0413,Product 413,Books,Fiction,Prime Wholesale,11280.34,16039.77
+P0414,Product 414,Fashion,Accessories,Prime Wholesale,13492.44,24091.11
+P0415,Product 415,Books,Technology,Urban Source,17448.38,26749.55
+P0416,Product 416,Fashion,Accessories,Global Goods,19343.06,31794.01
+P0417,Product 417,Home & Kitchen,Appliances,Global Goods,14441.93,21664.87
+P0418,Product 418,Books,Business,Nova Traders,14437.6,23644.69
+P0419,Product 419,Books,Technology,Alpha Supply,4881.82,7284.9
+P0420,Product 420,Home & Kitchen,Appliances,Urban Source,427.8,558.65
+P0421,Product 421,Books,Technology,Urban Source,4117.64,5934.8
+P0422,Product 422,Books,Technology,,14561.67,23126.24
+P0423,Product 423,Sports,Team Sports,Urban Source,6534.74,10173.3
+P0424,Product 424,Fashion,Accessories,Prime Wholesale,19135.88,26999.92
+P0425,Product 425,Sports,Team Sports,Prime Wholesale,7118.03,11643.91
+P0426,Product 426,Sports,Outdoor,Global Goods,9709.39,17178.66
+P0427,Product 427,Fashion,Women,Prime Wholesale,4536.1,8076.51
+P0428,Product 428,Books,Business,Urban Source,4185.19,6644.37
+P0429,Product 429,Fashion,Accessories,Prime Wholesale,11231.73,19687.31
+P0430,Product 430,Fashion,Women,Urban Source,2481.39,3888.76
+P0431,Product 431,Fashion,Women,Alpha Supply,19094.45,31683.87
+P0432,Product 432,Fashion,Women,Prime Wholesale,19108.51,21724.49
+P0433,Product 433,Books,Technology,Prime Wholesale,9607.63,11774.04
+P0434,Product 434,Sports,Team Sports,Global Goods,13938.62,16431.35
+P0435,Product 435,Home & Kitchen,Furniture,Nova Traders,4887.04,7634.93
+P0436,Product 436,Books,Business,Urban Source,4695.09,5409.41
+P0437,Product 437,Electronics,Audio,Nova Traders,13639.78,16080.98
+P0438,Product 438,Beauty,Makeup,Urban Source,13075.21,22411.78
+P0439,Product 439,Books,Business,Prime Wholesale,4029.15,7147.79
+P0440,Product 440,Books,Technology,Global Goods,1230.29,2009.66
+P0441,Product 441,Home & Kitchen,Appliances,Nova Traders,10726.29,17168.98
+P0442,Product 442,Beauty,Skincare,Urban Source,17650.79,21296.88
+P0443,Product 443,Beauty,Makeup,,3766.92,6099.71
+P0444,Product 444,Electronics,Laptops,Prime Wholesale,6002.92,9088.44
+P0445,Product 445,Beauty,Makeup,Nova Traders,19782.53,29103.59
+P0446,Product 446,Sports,Fitness,Prime Wholesale,9387.01,11441.12
+P0447,Product 447,Home & Kitchen,Furniture,Nova Traders,14635.83,22638.2
+P0448,Product 448,Electronics,Audio,Nova Traders,14745.53,24320.58
+P0449,Product 449,Home & Kitchen,Cookware,Urban Source,12238.54,18845.91
+P0450,Product 450,Sports,Fitness,Nova Traders,6592.14,0.0
+P0451,Product 451,Home & Kitchen,Appliances,Prime Wholesale,9575.21,16792.95
+P0452,Product 452,Beauty,Makeup,Prime Wholesale,4748.65,7705.66
+P0453,Product 453,Sports,Team Sports,Prime Wholesale,14471.51,15748.39
+P0454,Product 454,Books,Business,Prime Wholesale,4764.24,7436.05
+P0455,Product 455,Home & Kitchen,Furniture,Prime Wholesale,8138.06,11733.57
+P0456,Product 456,Books,Business,Prime Wholesale,2392.44,4161.92
+P0457,Product 457,Sports,Outdoor,Nova Traders,4455.94,7883.89
+P0458,Product 458,Beauty,Makeup,Global Goods,14967.31,22692.42
+P0459,Product 459,Beauty,Skincare,Nova Traders,15159.14,25125.31
+P0460,Product 460,Books,Fiction,Global Goods,15107.05,25812.77
+P0461,Product 461,Beauty,Haircare,Alpha Supply,10587.05,14191.78
+P0462,Product 462,Electronics,Phones,Global Goods,16584.04,28691.71
+P0463,Product 463,Sports,Team Sports,Urban Source,3039.56,4000.8
+P0464,Product 464,Electronics,Laptops,Alpha Supply,13621.89,21743.0
+P0465,Product 465,Sports,Fitness,Global Goods,8937.38,10010.38
+P0466,Product 466,Beauty,Makeup,Prime Wholesale,9163.13,10277.1
+P0467,Product 467,Books,Fiction,Nova Traders,484.32,611.8
+P0468,Product 468,Sports,Team Sports,Alpha Supply,1506.94,2087.21
+P0469,Product 469,Sports,Fitness,Urban Source,19882.77,34852.5
+P0470,Product 470,Electronics,Phones,Urban Source,5777.46,6988.34
+P0471,Product 471,Fashion,Women,Urban Source,19857.49,26914.55
+P0472,Product 472,Electronics,Audio,Nova Traders,13670.47,21277.96
+P0473,Product 473,Books,Technology,Urban Source,17212.72,20059.98
+P0474,Product 474,Sports,Fitness,Alpha Supply,2590.57,4623.34
+P0475,Product 475,Fashion,Women,Global Goods,9286.93,14838.17
+P0476,Product 476,Beauty,Makeup,Nova Traders,16476.04,20730.3
+P0477,Product 477,Fashion,Men,Alpha Supply,3810.19,6516.0
+P0478,Product 478,Books,Fiction,Nova Traders,8413.85,13727.69
+P0479,Product 479,Home & Kitchen,Cookware,Global Goods,1392.45,2099.31
+P0480,Product 480,Books,Technology,Alpha Supply,14080.56,15700.49
+P0481,Product 481,Beauty,Skincare,Nova Traders,8807.31,12934.65
+P0482,Product 482,Sports,Team Sports,Global Goods,19869.99,24809.6
+P0483,Product 483,Fashion,Women,Nova Traders,11570.62,18932.17
+P0484,Product 484,Fashion,Accessories,Nova Traders,17531.35,31375.87
+P0485,Product 485,Beauty,Haircare,Nova Traders,6044.99,6793.9
+P0486,Product 486,Books,Fiction,Prime Wholesale,13591.06,20117.66
+P0487,Product 487,Books,Business,Urban Source,13443.28,22124.67
+P0488,Product 488,Beauty,Haircare,Urban Source,3026.89,4089.48
+P0489,Product 489,Home & Kitchen,Furniture,Nova Traders,16994.35,22033.69
+P0490,Product 490,Beauty,Makeup,Global Goods,18299.09,27172.65
+P0491,Product 491,Sports,Fitness,Prime Wholesale,2725.15,3419.68
+P0492,Product 492,Books,Business,Alpha Supply,1627.46,2284.7
+P0493,Product 493,Sports,Outdoor,Urban Source,14505.47,17655.29
+P0494,Product 494,Books,Fiction,Nova Traders,12119.14,13433.75
+P0495,Product 495,Sports,Outdoor,Nova Traders,14499.89,21494.24
+P0496,Product 496,Fashion,Men,Nova Traders,6098.6,10577.87
+P0497,Product 497,Books,Business,Nova Traders,2390.46,4302.09
+P0498,Product 498,Books,Fiction,Global Goods,12107.81,14859.3
+P0499,Product 499,Fashion,Accessories,Prime Wholesale,15521.5,21017.3
+P0500,Product 500,Fashion,Women,Urban Source,5268.15,7634.75
+P0309,Product 309,Electronics,Phones,Prime Wholesale,15795.08,24420.14
+P0014,Product 14,Sports,Fitness,Nova Traders,12717.82,18626.27
+P0415,Product 415,Books,Technology,Urban Source,17448.38,26749.55
+P0033,Product 33,Books,Technology,Nova Traders,9745.51,11010.8
+P0461,Product 461,Beauty,Haircare,Alpha Supply,10587.05,14191.78
+P0156,Product 156,ELECTRONICS,Makeup,Urban Source,6847.08,12154.65
